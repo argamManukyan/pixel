@@ -1,0 +1,8 @@
+static/
+.sqlite3
+media/
+.vscode
+__pychare__
+venv
+core/migrations/*
+frontend/
